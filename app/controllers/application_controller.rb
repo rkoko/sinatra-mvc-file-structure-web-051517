@@ -1,3 +1,5 @@
+#this is where the application configs/routes/controller actions are implemented
+#represents the application logic; interface and flow of app
 class ApplicationController < Sinatra::Base
 
   configure do
